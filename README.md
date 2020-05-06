@@ -25,13 +25,13 @@ The notebooks are in the `Notebooks` folder and in the following order:
 2. Identify Datetimes for Split
 3. Numerical Values and DateTime Values
 4. Boolean and Categorical Values
-5. Coercing Datetimes (add_datepart), and handling na values
+5. Coercing Datetimes and Handling NA Values
 6. Train and Score Initial Model 
 7. Plot/Coerce Target Variable 
 
-`step1.pynb` is `1. Target Value Identification and Exploration`
+e.g. `step1.pynb` is `1. Target Value Identification and Exploration`
 
 
 ## Comments
 
-Feedback is welcome. Feel free to get a hold of me through my GitHub account or [online](https://luisverajr.com/).
+Feedback is welcome. Feel free to get a hold of me through my [GitHub](https://github.com/ludawg44) account or [online](https://luisverajr.com/).
