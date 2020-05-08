@@ -29,7 +29,7 @@ The notebooks are in the [Notebooks](https://github.com/ludawg44/module2_project
 6. [Train and Score Initial Model](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step6.ipynb)
 7. Plot/Coerce Target Variable 
 
-e.g. `step1.pynb` is `1. Target Value Identification and Exploration`
+e.g. `1. Target Value Identification and Exploration` is `step1.pynb`
 
 
 ## Comments
