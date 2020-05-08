@@ -19,14 +19,14 @@ The XLSX file is above the 25 MB limit for Github. I saved the converted CSV ver
 
 ## Notebooks
 
-The notebooks are in the `Notebooks` folder and in the following order: 
+The notebooks are in the [Notebooks](https://github.com/ludawg44/module2_project/tree/master/Notebooks) folder and in the following order: 
 
-1. Target Value Identification and Exploration
-2. Identify Datetimes for Split
-3. Numerical Values and DateTime Values
-4. Boolean and Categorical Values
-5. Coercing Datetimes and Handling NA Values
-6. Train and Score Initial Model 
+1. [Target Value Identification and Exploration](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step1.ipynb)
+2. [Identify Datetimes for Split](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step2.ipynb)
+3. [Numerical Values and DateTime Values](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step3.ipynb)
+4. [Boolean and Categorical Values](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step4.ipynb)
+5. [Coercing Datetimes and Handling NA Values](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step5.ipynb)
+6. [Train and Score Initial Model](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step6.ipynb)
 7. Plot/Coerce Target Variable 
 
 e.g. `step1.pynb` is `1. Target Value Identification and Exploration`
