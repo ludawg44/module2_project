@@ -19,7 +19,9 @@ The XLSX file is above the 25 MB limit for Github. I saved the converted CSV ver
 
 ## Notebooks
 
-The notebooks are in the [Notebooks](https://github.com/ludawg44/module2_project/tree/master/Notebooks) folder and in the following order: 
+The main notebook will be the `index.ipyn` file along with the other defined files. 
+
+The exploratory data analys isnotebooks are in the [Notebooks](https://github.com/ludawg44/module2_project/tree/master/Notebooks) folder and in the following order: 
 
 1. [Target Value Identification and Exploration](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step1.ipynb)
 2. [Identify Datetimes for Split](https://github.com/ludawg44/module2_project/blob/master/Notebooks/step2.ipynb)
